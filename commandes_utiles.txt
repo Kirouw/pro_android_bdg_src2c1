@@ -1,0 +1,5 @@
+Pour supprimer des fichiers du github que vous avez supprimé dans votre repo local : 
+
+git add . -A
+git commit -m 'suppression de fichiers'
+git push...
