@@ -1,7 +1,5 @@
-Ce README a pour but d'expliquer ce projet.
+Bonjour et bienvenue dans ce README ! Ce dernier a pour but d'expliquer en quoi consiste ce projet : nous sommes trois élèves en deuxième année de DUT Services et Réseaux de Communication à l'IUT de Lens, et avons comme consigne de créer un petit jeu tournant sur Android et ayant comme base le célèbre Space Invader.
 
-Le projet situé dans ce repository est un projet de trois élèves en deuxième année de DUT Services et Réseaux de Communication, dont l'objectif est de créer un petit jeu tournant sur Android et ayant comme modèle le célèbre Space Invaders.
+Professeur tutorant le projet : M. Dubois
 
-Professeur tutorant ce projet au sein de l'IUT SRC de Lens : M. Dubois.
-
-Echéance prévue : fin janvier/mi-février
+Echéance prévue : mi-janvier / début février
